@@ -51,7 +51,7 @@ The initial short CPU workload did not produce a confirmed alarm transition. Aft
 This project demonstrates practical experience with EC2 administration, CloudWatch monitoring, alarm thresholds, SNS integration, Linux testing, alarm history verification, and AWS resource management.
 
 ## Evidence
-CloudWatch alarm history and SNS notification screenshots will be added after redacting account identifiers and other sensitive information.
+Eight screenshots documenting EC2 monitoring, CloudWatch alarm configuration, SNS email subscription confirmation, and SNS notification testing have been uploaded to this GitHub repository.
 
 ## Cost Awareness
 Stopped the EC2 instance after testing. CloudWatch alarms, detailed monitoring, and other AWS resources may still incur charges independently of EC2 compute usage.
